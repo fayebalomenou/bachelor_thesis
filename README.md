@@ -9,7 +9,7 @@ The required libraries for each notebook are listed inside at the top and can be
 
 ## Data Access
 Due to size limitations the individual .ttl files of each floor and the merged .ttl file, containing the Knowledge Graph, have been uploaded to Google Drive and can be accessed using the following links:
-- floor_10.ttl:https://drive.google.com/file/d/1u6mfjlGhzj8jXhIHOuFcRhY_WewQokvM/view?usp=sharing
+- floor_10.ttl: https://drive.google.com/file/d/1u6mfjlGhzj8jXhIHOuFcRhY_WewQokvM/view?usp=sharing
 - floor_11.ttl: https://drive.google.com/file/d/1EHwOfRa7C5rB1PJyY22EMsgcYNMFzKoM/view?usp=sharing
 - floor_12.ttl: https://drive.google.com/file/d/1ene8Cf8bYxk7x04T4HoGoPc1zgmIph4f/view?usp=sharing
 - merged_floors.ttl: https://drive.google.com/file/d/184tBhy7qmGNG0nqj8OQS15nezL8XBe4z/view?usp=sharing
@@ -26,6 +26,7 @@ The **ENDPOINT** in each of the jupyter notebooks:
 - occupancy_proxy.ipynb
 - random_forest.ipynb
   needs to be manually updated in order to point to the most current QLever instance.
+  Note: You will need to deploy a QLever instance to re-run the analysis notebooks.
 ### 4. SPARQL_queries.ipynb
 This notebook is used for validating the structure of the created Knowledge Graph and for retrieving statistics of the indoor environmental variables it contains.
 ### 5. occupancy_proxy.ipynb
