@@ -27,7 +27,7 @@ The **ENDPOINT** in each of the jupyter notebooks:
 - random_forest.ipynb
   needs to be manually updated in order to point to the most current QLever instance.
 
-  Note: You will need to deploy a QLever instance to re-run the analysis notebooks.
+*Note: You will need to deploy a QLever instance to re-run the analysis notebooks.*
 ### 4. SPARQL_queries.ipynb
 This notebook is used for validating the structure of the created Knowledge Graph and for retrieving statistics of the indoor environmental variables it contains.
 ### 5. occupancy_proxy.ipynb
