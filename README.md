@@ -8,14 +8,10 @@ To run the code ensure you have **Python 3.10** or higher. The jubyter notebooks
 
 ## Data Access
 Due to size limitations the individual .ttl files of each floor and the merged .ttl file, containing the Knowledge Graph, have been uploaded to Google Drive and can be accessed using the following links:
-floor_10.ttl 
-https://drive.google.com/file/d/1u6mfjlGhzj8jXhIHOuFcRhY_WewQokvM/view?usp=sharing
-floor_11.ttl
-https://drive.google.com/file/d/1EHwOfRa7C5rB1PJyY22EMsgcYNMFzKoM/view?usp=sharing
-floor_12.ttl
-https://drive.google.com/file/d/1ene8Cf8bYxk7x04T4HoGoPc1zgmIph4f/view?usp=sharing
-merged_floors.ttl
-https://drive.google.com/file/d/184tBhy7qmGNG0nqj8OQS15nezL8XBe4z/view?usp=sharing
+- floor_10.ttl:https://drive.google.com/file/d/1u6mfjlGhzj8jXhIHOuFcRhY_WewQokvM/view?usp=sharing
+- floor_11.ttl: https://drive.google.com/file/d/1EHwOfRa7C5rB1PJyY22EMsgcYNMFzKoM/view?usp=sharing
+- floor_12.ttl: https://drive.google.com/file/d/1ene8Cf8bYxk7x04T4HoGoPc1zgmIph4f/view?usp=sharing
+- merged_floors.ttl: https://drive.google.com/file/d/184tBhy7qmGNG0nqj8OQS15nezL8XBe4z/view?usp=sharing
 
 ## Code Execution Order
 ### 1. floor-conversions.ipynb
