@@ -5,6 +5,7 @@ The analysis is supported by Semantic Modeling using **SAREF, SAREF4BLDG and OM 
 
 ## Setup
 To run the code ensure you have **Python 3.10** or higher. The jupyter notebooks can be run using **Jupyter Lab** or **VSCode**.
+The required libraries for each notebook are listed inside as the top and can be downloaded from there directly. 
 
 ## Data Access
 Due to size limitations the individual .ttl files of each floor and the merged .ttl file, containing the Knowledge Graph, have been uploaded to Google Drive and can be accessed using the following links:
@@ -29,5 +30,5 @@ This notebook is used for deriving the occupancy proxies for MCO and Thingy sens
 This notebook is used for the Random Forest Analysis. Environmental features are queried separately and merged with the previous created occupancy labels. The resulting Python Dataframes (df_mco_raw.pkl and df_thingy_raw.pkl) are located in the **data** folder.
 
 ## Reproducibility 
-The code can be executed without regenerating anything as long as the path configuration is updated to match the   
+The code can be executed without regenerating anything by cloning the repository, since it mirrors the configuration of my local folder **FINALTHESIS**. Simply update the path configuration to match your local setup.
  
